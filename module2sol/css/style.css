@@ -1,19 +1,17 @@
-/*RAMAVATH SANTHOSH MODULE2-SOLUTION OF ASSIGNMENT*/
-
 * {
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
-    color: blue;
+    color: RED;
     font-size: 175%;
     text-align: center;
 }
 
 section {
     border: 1px solid black;    
-    background-color: bisque;
+    background-color:YELLOW;
     height: 250px;
     overflow: auto;
 }
@@ -37,11 +35,11 @@ ul {
     background-color: brown;
 }
 
-#pork {
+#beef {
     background-color: darkorchid;
 }
 
-#steak {
+#sushi {
     background-color: forestgreen;
 }
 
